@@ -1,0 +1,1 @@
+insert into buyers values (1, 'Ivan', 'Polski', 'Ukaine, Kiev, Lomonosova, 15', 20000.00);
